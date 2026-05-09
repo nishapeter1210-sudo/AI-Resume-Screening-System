@@ -1,0 +1,100 @@
+Deep understanding of the algorithms (theory and application) that they have worked on.
+Good grasp of the theory and practice of basic statistical models such as regression or clustering, and general ML algorithms such as tree, Random Forests, SVM, Boosting, Neural Networks, etc. (It is not expected that the candidate has actually worked on all these models).
+Strong proficiency in Python or R is necessary.
+Experience through publications/deployed solutions/projects.
+
+
+
+Proficiency in Data Science and Data Analytics methodologies
+Strong skills in Statistics and Data Analysis techniques
+Experience with Data Visualization tools such as Tableau, Power BI, or similar software
+Basic knowledge of programming languages like Python or R is advantageous
+Ability to understand and work with complex datasets to deliver actionable insights
+Excellent problem-solving and critical thinking skills
+Pursuing or recently completed a degree in Computer Science, Data Science, Statistics, or a related field
+Strong communication and collaboration skills
+
+
+Python
+Generative AI
+Hugging Face
+Lang Graph
+LangChain
+OpenAI
+Ollama
+Vllm
+PG Vector
+Unix
+
+
+Experience in building chatbots for Slack/Teams or similar platforms.
+Exposure to LLM fine-tuning and prompt engineering.
+Background in financial services or analytics-driven environments.
+
+5+ years of experience in Data Science / AI
+ Excellent analytical and problem‑solving skills
+
+ Strong experience using Python, SQL (SLQ*) and statistical programming languages
+ Hands‑on experience working with large datasets to extract meaningful insights
+ In‑depth knowledge of statistical techniques, including:
+Regression analysis
+Properties of distributions
+Statistical tests & correct usage
+Strong experience with Machine Learning algorithms, including:
+Regression & simulation
+Scenario analysis & modeling
+Clustering & decision trees
+Neural networks
+Ability to host ML models and expose them as APIs
+
+Strong communication & presentation skills to explain complex analyses to non‑technical stakeholders.
+
+
+Key Responsibilities
+
+• Work on cutting‑edge AI solutions in partnership with leading businesses
+ • Propose innovative AI approaches and adapt quickly in a dynamic learning environment
+ • Build AI algorithms and design experiments to:
+Merge, manage, and analyze data
+Extract actionable insights and create tailored reports
+• Apply predictive modeling to optimize:
+Customer experience
+Revenue generation
+Ad targeting
+Other key business outcomes
+• Champion Explainable & Responsible AI practices
+ • Conduct research and develop prototypes & proof‑of‑concepts (POCs)
+
+ • Identify opportunities to reuse datasets, models, and insights across teams
+
+ • Inspire others by clearly articulating the value and impact of AI solutions
+5+ years of experience in Data Science / AI
+ Excellent analytical and problem‑solving skills
+
+ 
+• Work on cutting‑edge AI solutions in partnership with leading businesses
+ • Propose innovative AI approaches and adapt quickly in a dynamic learning environment
+ • Build AI algorithms and design experiments to:
+Merge, manage, and analyze data
+Extract actionable insights and create tailored reports
+• Apply predictive modeling to optimize:
+Customer experience
+Revenue generation
+Ad targeting
+Other key business outcomes
+• Champion Explainable & Responsible AI practices
+ • Conduct research and develop prototypes & proof‑of‑concepts (POCs)
+
+ • Identify opportunities to reuse datasets, models, and insights across teams
+
+ • Inspire others by clearly articulating the value and impact of AI solutions
+
+ The ideal candidate will have strong coding skills in Python and experience building scalable, high-performance applications.
+You will work closely with cross-functional teams to design, develop, and maintain backend services, APIs, and data-driven solutions.
+Excellent coding in Python and relevant libraries (e.g., scikit-learn, TensorFlow, PyTorch).
+Collaborate with software engineers, and product teams to integrate ML models into production systems.
+Optimize model performance and scalability for real-world applications.
+Develop reusable code and ML pipelines using tools like MLflow, Airflow, or Kubeflow.
+Stay updated with the latest ML research and technologies and apply them to solve business problems.
+Document processes, models, and code for maintainability and reproducibility.
+
